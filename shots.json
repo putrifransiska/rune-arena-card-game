@@ -1,0 +1,6 @@
+[
+  { "file": "01_title.png", "path": "#title", "viewport": { "width": 960, "height": 640 } },
+  { "file": "02_gameplay.png", "path": "#play", "viewport": { "width": 960, "height": 640 } },
+  { "file": "03_win.png", "path": "#win", "viewport": { "width": 960, "height": 640 } },
+  { "file": "04_loss.png", "path": "#loss", "viewport": { "width": 960, "height": 640 } }
+]
